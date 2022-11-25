@@ -1,12 +1,8 @@
 ## nosql-social-network-api
 
+link to video
 
-# Video link
-
-[Link to demo video]
-![screenshot of application]
-
-## Table of Contents
+# Table of Contents
 
 - [Description](#Description)
 - [Usage](#Usage)
@@ -14,29 +10,17 @@
 - [Contributing](#Contributing)
 - [Questions](#questions)
 
-## Project title :
 
-social network api
+# Description :
 
-## Description :
+# Installation :
 
+# Usage :
 
-
-## Installation :
-
+# Contributing ;
 
 
-## Usage :
+# License :
 
-## Contributing ;
-
-## linkedin :
-
-## Github ;
-
-
-
-## License :
-
-## Questions
+# Questions
 

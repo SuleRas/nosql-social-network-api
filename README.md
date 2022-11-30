@@ -24,6 +24,7 @@ No seed data is provided, so you’ll need to create your own data using Insomni
 Install all dependencies before using the app
 npm init -y
 npm install
+node server.js
 
 ## Usage :
 
